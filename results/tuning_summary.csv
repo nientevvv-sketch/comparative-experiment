@@ -1,0 +1,5 @@
+Model,Best CV F1 (malignant),Search time (sec),Best parameters
+Logistic Regression,0.96991341991342,0.4029726999999639,"{""logisticregression__C"": 0.1, ""logisticregression__class_weight"": null}"
+Decision Tree,0.9049111807732496,0.45846949999986464,"{""criterion"": ""gini"", ""max_depth"": 5, ""min_samples_leaf"": 1}"
+Random Forest,0.9464649011232039,8.170993499999895,"{""max_depth"": null, ""min_samples_leaf"": 1, ""n_estimators"": 100}"
+Gradient Boosting,0.9531573498964804,8.795616599999903,"{""learning_rate"": 0.05, ""max_depth"": 2, ""n_estimators"": 200}"
