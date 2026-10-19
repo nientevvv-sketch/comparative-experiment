@@ -1,0 +1,13 @@
+Model,Outer fold,F1 (malignant)
+Logistic Regression,1,0.9642857142857143
+Logistic Regression,2,0.9482758620689655
+Logistic Regression,3,0.9734513274336283
+Decision Tree,1,0.9090909090909091
+Decision Tree,2,0.8983050847457628
+Decision Tree,3,0.8909090909090909
+Random Forest,1,0.9482758620689655
+Random Forest,2,0.9203539823008849
+Random Forest,3,0.9541284403669725
+Gradient Boosting,1,0.9824561403508771
+Gradient Boosting,2,0.9391304347826087
+Gradient Boosting,3,0.9217391304347826
